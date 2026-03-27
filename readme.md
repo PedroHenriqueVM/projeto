@@ -9,7 +9,7 @@ As páginas permitem calcular **horas extras de funcionários**, **aumento salar
 O objetivo do projeto é praticar conceitos básicos de **HTML, CSS e JavaScript**, além de desenvolver lógica de programação aplicada a situações reais do ambiente corporativo.
 
 🔗 **Acesse o projeto online:**
-(Link da Vercel aqui)
+https://projeto-red-omega.vercel.app/ 
 
 ---
 
