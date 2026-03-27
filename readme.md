@@ -13,15 +13,13 @@ https://projeto-red-omega.vercel.app/
 
 ---
 
-# Índice
+## Índice
 
-* Funcionalidades
-* Tecnologias Utilizadas
-* Estrutura do Projeto
-* Autores
-* Licença
-
----
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Autores](#autores)
+- [Licença](#licença)
 
 # Funcionalidades
 
