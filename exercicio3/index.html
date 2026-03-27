@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transporte de Colaboradores</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="topo">
+            <a href="../index.html" class="btn-voltar">← Voltar</a>
+            <div class="data-hora">
+                <span id="data"></span>
+                <span id="hora"></span>
+            </div>
+        </div>
+        
+        <h1>Cálculo de Transporte</h1>
+        
+        <div class="content">
+            <div class="card input-card">
+                <label>Quantidade de funcionários:</label>
+                <input type="number" id="pessoas" placeholder="Digite o número de funcionários" autocomplete="off">
+                
+                <label>Dias úteis:</label>
+                <input type="number" id="dias" placeholder="Digite a quantidade de dias úteis" autocomplete="off">
+                
+                <button onclick="calcular()">Calcular</button>
+            </div>
+            
+            <div class="card result-card">
+                <label>Custo mensal:</label>
+                <input type="text" id="resultado" readonly>
+            </div>
+        </div>
+    </div>
+
+    <script src="codigo.js"></script>
+    <script src="../script.js"></script>
+</body>
+
+</html>
