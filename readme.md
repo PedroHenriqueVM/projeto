@@ -71,17 +71,17 @@ O objetivo do projeto é praticar conceitos básicos de **HTML, CSS e JavaScript
 ├── exercicio1
 │   ├── index.html
 │   ├── style.css
-│   └── script.js
+│   └── codigo.js
 │
 ├── exercicio2
 │   ├── index.html
 │   ├── style.css
-│   └── script.js
+│   └── codigo.js
 │
 ├── exercicio3
 │   ├── index.html
 │   ├── style.css
-│   └── script.js
+│   └── codigo.js
 ```
 
 ---
